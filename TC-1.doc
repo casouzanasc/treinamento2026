@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#TC-1] Autenticação de Login</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://milasnasc.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://milasnasc.atlassian.net/browse/TC-11">Jornada de Compra</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://milasnasc.atlassian.net/browse/TC-11">TC-11</a>)</span>
+                <h3 class="formtitle"><img src="https://milasnasc.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [TC-1]&nbsp;<a href="https://milasnasc.atlassian.net/browse/TC-1">Autenticação de Login</a>
+            <span class="subText">
+               Criado: 18/set/26                   &nbsp;Atualizado(a): 18/set/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Fazendo</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://milasnasc.atlassian.net/secure/BrowseProject.jspa?id=10003">Swag Labs</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Pai:</b></td>
+        <td width="80%"><a href="https://milasnasc.atlassian.net/browse/TC-11">Jornada de Compra</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:f2cb3ca4-26d5-4b59-9f4a-ee54cf152fc4"
+                id="word_reporter_712020:f2cb3ca4-26d5-4b59-9f4a-ee54cf152fc4"
+                href="https://milasnasc.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Af2cb3ca4-26d5-4b59-9f4a-ee54cf152fc4">
+                    Camila Nascimento
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:f2cb3ca4-26d5-4b59-9f4a-ee54cf152fc4"
+                id="word_assignee_712020:f2cb3ca4-26d5-4b59-9f4a-ee54cf152fc4"
+                href="https://milasnasc.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Af2cb3ca4-26d5-4b59-9f4a-ee54cf152fc4">
+                    Camila Nascimento
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10000-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ de Tempo Gasto:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da Estimativa Original:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+            <tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Subtarefas:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Chave</b><br/>
+                </td>
+                <td>
+                    <b>Resumo</b><br/>
+                </td>
+                <td>
+                    <b>Tipo</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Responsável</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://milasnasc.atlassian.net/browse/TC-12">TC-12</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://milasnasc.atlassian.net/browse/TC-12">Implementar a tela de login</a>
+                    </td>
+                    <td>
+                        Subtask
+                    </td>
+                    <td>
+                        Feito
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://milasnasc.atlassian.net/browse/TC-13">TC-13</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://milasnasc.atlassian.net/browse/TC-13">Planejamento de testes</a>
+                    </td>
+                    <td>
+                        Subtask
+                    </td>
+                    <td>
+                        Feito
+                    </td>
+                    <td>
+                                                     Camila Nascimento  &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://milasnasc.atlassian.net/browse/TC-15">TC-15</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://milasnasc.atlassian.net/browse/TC-15">Executar os testes</a>
+                    </td>
+                    <td>
+                        Subtask
+                    </td>
+                    <td>
+                        Fazendo
+                    </td>
+                    <td>
+                                                     Camila Nascimento  &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Classificação:</b></td>
+                <td id="customfield_10019-10000-value" class="value" bgcolor="#ffffff" width="80%">      0|hzzzzz:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10000-value" class="value" bgcolor="#ffffff" width="80%">TC Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Objetivo</b><br/>
+Implementar a tela de login no site SwagLabs, permitindo que usuários cadastrados acessem o sistema utilizando usuário e senha.</p>
+
+<p><b>História do usuário</b><br/>
+Como usuário do site SwagLabs, quero realizar login utilizando meu usuário e senha para acessar as funcionalidades disponíveis no sistema.</p>
+
+<p><b>Critérios de aceite</b></p>
+
+<ul>
+	<li>A tela deve apresentar os campos <b>Usuário</b> e <b>Senha</b>.</li>
+	<li>A tela deve apresentar o campo <b>Login</b>.</li>
+	<li>Ao informar usuário e senha válidos, o usuário deve acessar o sistema com sucesso.</li>
+	<li>Ao informar usuário ou senha inválidos, o sistema deve exibir uma mensagem de erro.</li>
+	<li>Os campos obrigatórios não devem permitir o login quando estiverem vazios.</li>
+	<li>O campo <b>Senha</b> deve ocultar os caracteres digitados.</li>
+	<li>A tela deve ser exibida corretamente, sem erros de layout.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Sat Sep 19 21:16:18 UTC 2026 por Camila Nascimento usando JIRA 1001.0.0-SNAPSHOT#100294-rev:14f5de29141a25f8aaa17539cb4ba0e2f811e924.
+
+</body>
+</html>
